@@ -1,2 +1,2 @@
-# pubs
+# Public
 Publications and Presentations
