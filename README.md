@@ -1159,15 +1159,7 @@ Mississippi State University
 
    </td>
   </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
+ <tr>
    <td>Lecturer
    </td>
    <td>Biochemistry Boot Camp
@@ -1302,19 +1294,17 @@ Mississippi State University
   <tr>
    <td><strong>The Proteogenomic Mapping Tool.</strong>
 <p>
-http://www.agbase.msstate.edu/tools/pgm/
+https://agbase.arizona.edu/cgi-bin/tools/
    </td>
    <td>A Java-based implementation of the Aho-Corasick string searching algorithm which takes peptides observed by mass spectrometry and maps them onto a source genome.
    </td>
   </tr>
   <tr>
-   <td><strong>PepOut </strong>– A Distance Based Peptide Validation Tool.
+   <td><strong>PepFly </strong>– Peptide Flyability Prediction.
 <p>
-http://www.agbase.msstate.edu/cgi-bin/tools/
+https://agbase.arizona.edu/cgi-bin/tools/
    </td>
-   <td>A Perl/MySQL-based program that uses the k-nearest neighbor algorithm combined with Bayesian probabilities to perform mass spectrometry peptide validation using target and
-<p>
-decoy databases.
+   <td>Constructs a dataset for easy importation into the Weka machine learning toolkit from MS datasets to predict the flyability of peptides.
    </td>
   </tr>
 </table>
